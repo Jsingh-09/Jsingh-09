@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/-jashandeep-singh/" target="blank"><img align="center" alt="https://www.linkedin.com/in/-jashandeep-singh/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/-jashandeep-singh/"> <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
