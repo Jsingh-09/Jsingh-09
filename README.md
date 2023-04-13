@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://www.linkedin.com/in/jashandeep-singh/](https://www.linkedin.com/in/-jashandeep-singh/)"> <img src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="LinkedIn Profile" width="50"/> </a>
+<a href="https://www.linkedin.com/in/-jashandeep-singh"> <img src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="LinkedIn Profile" width="50"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
