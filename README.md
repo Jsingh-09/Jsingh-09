@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jashan</h1>
-<h3 align="center">Software Engineer</h3>
 
 - 🔭 I’m currently working as a **Software Engineer at Northrop Grumman**
 
-- 🌱 I’m currently learning **React Native**
+- :books: Bachelors of Computer Science from California State University, Stanislaus**
 
 - 📫 How to reach me **jashanbhinder2@gmail.com**
 
