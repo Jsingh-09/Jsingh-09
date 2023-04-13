@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a **Software Engineer at Northrop Grumman**
 
-- :books: Bachelors of Computer Science from California State University, Stanislaus**
+- :books: Bachelors of Computer Science from **California State University, Stanislaus**
 
 - 📫 How to reach me **jashanbhinder2@gmail.com**
 
