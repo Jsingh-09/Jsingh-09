@@ -4,7 +4,7 @@
 
 - :books: I have my Bachelors in Computer Science from **California State University, Stanislaus**
 
-- 📫 How to reach me **jashanbhinder2@gmail.com**
+- 📫 Reach me at **jashanbhinder2@gmail.com**
 
 - ⚡ Fun fact **I love playing basketball and working out**
 
