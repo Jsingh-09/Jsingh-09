@@ -6,8 +6,6 @@
 
 - 📫 Reach me at **jashanbhinder2@gmail.com**
 
-- ⚡ Fun fact **I love playing basketball and working out**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/-jashandeep-singh"> <img src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="LinkedIn Profile" width="70"/> </a>
